@@ -6,6 +6,7 @@ def name=(name)
 end
 
 def bark
-end 
+  puts "Woof"
+end
 
 end
